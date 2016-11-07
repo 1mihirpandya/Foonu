@@ -1,1 +1,2 @@
-# Remind-Me
+# Foonu
+A quick calorie counter application.
